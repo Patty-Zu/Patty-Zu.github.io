@@ -8,8 +8,8 @@ La validacion sirve para obtener los datos requeridos en el formato correcto y c
 
 # 2.¿Cuáles son los problemas al no validar un formulario?
 ***
-
+De no validar el formulario podriamos obtener datos incorrectos en los campos, tales como si pedimos nombre y escriben numeros, esto nos daria error al momento de enviar la informacion del formulario, ya que, el sistema espera ciertos formatos especificos por cada campo, el no validar tambien nos abriria una vulnerabilidad hacia nuestra informacion.
 ***
-# 3.¿Cuáles son los problemas al no validar un formulario?
-
+# 3.¿Cuáles son los beneficios?
 ***
+los beneficios serian que al realizar la validacion obtendremos mayor precison al recibir los datos requeridos, evitamos errores al momento de enviar la informacion al sistema y evitamos perder tiempo tratando de solucionar errores que se pudieron evitar.
