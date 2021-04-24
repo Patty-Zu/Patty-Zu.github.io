@@ -1,0 +1,29 @@
+form{
+    text-align: justify;
+    background-color: #461E57;
+    width: 350px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+  }
+  
+  h1{
+      text-align: center;
+      color: #D1C4D6;
+  }
+
+  .ed{
+      color: #D1C4D6;
+      text-align: justify;
+  }
+
+  .b1{
+      text-align: center;
+  }
+
+  .b2{
+      
+      border-radius: 20px;
+      width: 90px;
+      height: 30px;
+  }
