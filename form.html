@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/form.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="form" >
+      <h1>Formulario Contacto</h1>
+      
+        <p><input type="text" name="nombre" size="45" minlength="6" maxlength="30" autocomplete="off" placeholder="Ingrese su Nombre:"></p>
+        <p><input type="text" name="apellido" size="45" minlength="6" maxlength="30" autocomplete="off" placeholder="Ingrese su Apellido:"></p>
+        <p><input type="email" name="email" size="45" minlength="6" maxlength="30" autocomplete="off" placeholder="Ingrese email"></p>
+        <p class="ed">Edad: 
+          <input type="number" name="edad" size="10" min="18" max="80" autocomplete="off"></p> 
+        <p class="ed">Sexo:
+          <input type="radio" name="hm" value="h"> Masculino
+          <input type="radio" name="hm" value="m"> Femenino
+        </p>
+        
+        <p class="b1">
+          <input class="b2" type="submit" value="Enviar">
+          <input class="b2" type="reset" value="Borrar">
+        </p>
+      </form>
+
+</body>
+</html>
