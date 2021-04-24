@@ -1,0 +1,97 @@
+body{
+    
+    margin: auto;
+    padding: 16px;
+}
+
+.a1{
+    
+    color: aliceblue;
+    width: 700px;
+    height: 300px;
+    background:  url(/images/chico.jpg);
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+    
+}
+
+.a2{
+    color: #1D06A7;
+    background: #7299FE; 
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+}
+
+.bt{
+    background-color: #D16FFF;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+}
+
+.a3{
+    color: #26CC4B;
+    background: #9022FF; 
+    image-rendering: 5px;
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+}
+
+.a4{
+    color: #00AD84;
+    background: #FFD233; 
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+}
+
+.a5{
+    color: #ADFF28;
+    background: #3F4E62; 
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+  }
+
+
+
+
+form{
+    text-align: center;
+    background-color: #1687A0;
+    color: #FF1B1B;
+
+    width: 800px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+  }
+
+  
+
+  .b1{
+      text-align: center;
+      border-radius: 20px;
+      width: 90px;
+      height: 30px;
+      background-color: #233451;
+  }
+
+  .pequeña{
+    width: 250px; height: 150px;
+  }
+
+  
